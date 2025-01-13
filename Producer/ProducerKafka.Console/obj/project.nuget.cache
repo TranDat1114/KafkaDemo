@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o2uzdWL4M9U=",
+  "success": true,
+  "projectFilePath": "D:\\Jay\\MyOwn\\KafkaDemo\\Producer\\ProducerKafka.Console\\ProducerKafka.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nichietsu\\.nuget\\packages\\confluent.kafka\\2.8.0\\confluent.kafka.2.8.0.nupkg.sha512",
+    "C:\\Users\\nichietsu\\.nuget\\packages\\librdkafka.redist\\2.8.0\\librdkafka.redist.2.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
