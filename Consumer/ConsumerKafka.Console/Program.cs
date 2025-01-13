@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 using System.Threading;
 using Confluent.Kafka;
 
@@ -6,6 +7,9 @@ class KafkaConsumer
 {
     public static void Main(string[] args)
     {
+        Console.InputEncoding = Encoding.UTF8;
+        Console.OutputEncoding = Encoding.UTF8;
+        
         var config = new ConsumerConfig
         {
             GroupId = "test-group",
